@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Matheus Chaves (matheuschaves21@gmail.com)
+i am 23 years old,
+
+i'm graduated in information systems. :computer:
+
+- 🔭 I'm currently working on personal and study projects
+to improve myself on the ReactJS stack
+and stil help a local group that I belong to.
+
+- 👯 I’am looking to collaborate on anything i can and cool stuff.
+
+- 📫 You can reach me by e-mail if want so.
