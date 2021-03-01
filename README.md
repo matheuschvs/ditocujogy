@@ -22,7 +22,7 @@ i'm graduated in information systems. :computer:
 
 - 🔭 I'm currently working on personal and study projects
 to improve myself on the ReactJS stack
-and stil help a local group that I belong to.
+and still help a local group that I belong to.
 
 - 👯 I’am looking to collaborate on anything i can and cool stuff.
 
