@@ -77,5 +77,5 @@ Já faz algum tempo que iniciei no universo da programação e pretendo continua
 </p>
  
 <!-- ![snake gif](https://github.com/matheuschvs/matheuschvs/blob/output/github-contribution-grid-snake.gif) -->
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
