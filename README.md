@@ -76,4 +76,6 @@ Já faz algum tempo que iniciei no universo da programação e pretendo continua
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuschvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
  
-![snake gif](https://github.com/matheuschvs/matheuschvs/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/matheuschvs/matheuschvs/blob/output/github-contribution-grid-snake.gif) -->
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
