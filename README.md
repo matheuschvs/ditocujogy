@@ -74,4 +74,17 @@ Já faz algum tempo que iniciei no universo da programação e pretendo continua
 <a href="https://github.com/matheuschvs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuschvs&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuschvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
 </p>
+
+
+</br>
+</br>
+
+
+<p align="left">última atualização deste readme:</p>
+
+
+```diff
++ 08/06/2022
+```
