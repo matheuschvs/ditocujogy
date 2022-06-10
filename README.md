@@ -6,7 +6,7 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Matheus Chaves</h1>
-  <a href="https://www.linkedin.com/in/matheus-chaves-62954214a/">
+  <a href="www.linkedin.com/in/dev-matheus-chaves">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
