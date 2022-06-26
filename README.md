@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/dev-matheus-chaves">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+  <a href="https://mcr-portfolio.vercel.app/">
+    <img width="80px" src="https://i.ibb.co/bQSgnN7/icons8-curr-culo-100.png" alt="portfolio" style="vertical-align:top;">
+  </a>
 </div>
 
 
